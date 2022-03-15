@@ -18,6 +18,12 @@ var users = {
         surname: "Abdushukurov",
         age: 21,
         salary: 400
+    },
+    "Samandar": {
+        name: "Samandar",
+        surname: "Kariomov",
+        age: 16,
+        salary: 12000
     }
 }
 
